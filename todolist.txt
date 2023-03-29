@@ -1,9 +1,13 @@
 todolist:
+
 grocery
 veges
 fruits
 bread
 other stuff
+
+cosmatics
+MEDICINES
 
 
 thank you!
